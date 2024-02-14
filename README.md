@@ -27,5 +27,6 @@ To get started, follow these steps:
 - View game detail and rating
 - View by rating
 - etc
+
 ![image](https://github.com/AlbinXXX/final/assets/136234404/8a63aac4-0f31-4b85-93ba-329da43477e5)
 
